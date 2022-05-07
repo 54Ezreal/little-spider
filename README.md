@@ -55,8 +55,8 @@ C:\Program Files (x86)\Google\Chrome\Application\chrome.exe --remote-debugging-p
 
 ### 效果
 运行test.py查看实际效果
-[Intoli](intoli.png)
-[sannysoft](sannysoft.png)
+![image](https://github.com/HuUncle/auto-download-spider/blob/master/intoli.png)
+![image](https://github.com/HuUncle/auto-download-spider/blob/master/sannysoft.png)
 
 ### 未来计划
 + 添加验证码识别
